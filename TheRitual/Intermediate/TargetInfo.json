@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheRitual",
+			"Path": "C:\\Users\\Jaina Tschritter\\Documents\\_Private\\Animation_Game\\SS21\\TheRitual\\UnrealProject\\git_repo\\TheRitual\\TheRitual\\Source\\TheRitual.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheRitualEditor",
+			"Path": "C:\\Users\\Jaina Tschritter\\Documents\\_Private\\Animation_Game\\SS21\\TheRitual\\UnrealProject\\git_repo\\TheRitual\\TheRitual\\Source\\TheRitualEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

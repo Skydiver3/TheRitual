@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheRitual.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9E0C07BC-CD59-4C8C-A513-BD0B833BEFCE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheRitual.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheRitualEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3EF24795-00A7-4762-BC9A-2FFC8B21C5A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheRitual">
+      <UniqueIdentifier>{F81D3E78-A2D8-4EC4-91E5-1A58B3413D80}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheRitual\MyPawn.cpp">
+      <Filter>Source\TheRitual</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRitual\MyPawn.h">
+      <Filter>Source\TheRitual</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TheRitual\TheRitual.Build.cs">
+      <Filter>Source\TheRitual</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheRitual\TheRitual.cpp">
+      <Filter>Source\TheRitual</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRitual\TheRitual.h">
+      <Filter>Source\TheRitual</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheRitual\VRCPPPawn.cpp">
+      <Filter>Source\TheRitual</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRitual\VRCPPPawn.h">
+      <Filter>Source\TheRitual</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

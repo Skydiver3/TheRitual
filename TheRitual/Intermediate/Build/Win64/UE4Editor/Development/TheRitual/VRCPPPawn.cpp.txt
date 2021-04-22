@@ -1,0 +1,17 @@
+C:\Users\Jaina Tschritter\Documents\_Private\Animation_Game\SS21\TheRitual\UnrealProject\git_repo\TheRitual\TheRitual\Intermediate\Build\Win64\UE4Editor\Development\TheRitual\Definitions.TheRitual.h
+C:\Users\Jaina Tschritter\Documents\_Private\Animation_Game\SS21\TheRitual\UnrealProject\git_repo\TheRitual\TheRitual\Source\TheRitual\VRCPPPawn.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneViewExtensionContext.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime/HeadMountedDisplay/Public/XRMotionControllerBase.h
+C:\Users\Jaina Tschritter\Documents\_Private\Animation_Game\SS21\TheRitual\UnrealProject\git_repo\TheRitual\TheRitual\Intermediate\Build\Win64\UE4Editor\Inc\TheRitual\VRCPPPawn.generated.h

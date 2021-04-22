@@ -1,0 +1,3 @@
+C:\Users\Jaina Tschritter\Documents\_Private\Animation_Game\SS21\TheRitual\UnrealProject\git_repo\TheRitual\TheRitual\Intermediate\Build\Win64\UE4Editor\Development\TheRitual\Definitions.TheRitual.h
+C:\Users\Jaina Tschritter\Documents\_Private\Animation_Game\SS21\TheRitual\UnrealProject\git_repo\TheRitual\TheRitual\Source\TheRitual\MyPawn.h
+C:\Users\Jaina Tschritter\Documents\_Private\Animation_Game\SS21\TheRitual\UnrealProject\git_repo\TheRitual\TheRitual\Intermediate\Build\Win64\UE4Editor\Inc\TheRitual\MyPawn.generated.h
